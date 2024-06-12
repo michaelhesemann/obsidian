@@ -48,15 +48,18 @@ share: "true"
 systemeigenschaften -> computer -> namen ändern -> name eintragen
 ## Ziele
 ### 13.06.2024
-- entra einbinden
+- Entra einbinden
 - was wird gebraucht?
 - geht das so? oder brauchen wir einen paid service
+	=> geht auf jeden fall mit sva mail nicht
 - ~~core -> gui~~ neuinstallation zusätzlich
 - AzureAD Connect wie?
-- git repo zugänglich machen
+- [x] git repo zugänglich machen
 ## Ausblick
 - Fileshare, Home-Laufwerke und Benutzerprofile
 ## Dokumentation
 ### 12.06.2024
 - https://woshub.com/windows-server-core-install-active-directory-domain-controller/
-- 
+- ~~`Install-ADDSDomainController` in PS wenn GUI nicht zur Verfügung steht~~ geht nicht
+- [x] RoyalTS setup
+- [x] 2 Windows Server mit GUI installieren
