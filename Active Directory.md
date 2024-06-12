@@ -9,7 +9,7 @@ share: "true"
 - 5.7.
 - 1h-offen
 - sachen zeigen
-- git repo für obsi
+- git repo für obsidian
 - 1 zwischen präsi
 - wenn name da -> eintragen
 ## Ziel
@@ -48,12 +48,13 @@ share: "true"
 systemeigenschaften -> computer -> namen ändern -> name eintragen
 ## Ziele
 ### 13.06.2024
-- Entra einbinden
-- was wird gebraucht?
-- geht das so? oder brauchen wir einen paid service
+- [ ] Entra einbinden
+- [ ] was wird gebraucht?
+- [ ] geht das so? oder brauchen wir einen paid service
 	=> geht auf jeden fall mit sva mail nicht
-- ~~core -> gui~~ neuinstallation zusätzlich
-- AzureAD Connect wie?
+- [ ] ~~core -> gui~~
+	=> neuinstallation zusätzlich
+- [ ] AzureAD Connect wie?
 - [x] git repo zugänglich machen
 ## Ausblick
 - Fileshare, Home-Laufwerke und Benutzerprofile
@@ -63,3 +64,6 @@ systemeigenschaften -> computer -> namen ändern -> name eintragen
 - ~~`Install-ADDSDomainController` in PS wenn GUI nicht zur Verfügung steht~~ geht nicht
 - [x] RoyalTS setup
 - [x] 2 Windows Server mit GUI installieren
+- [x] Server Patchen
+- Domäne: ad.mhesemann.de
+- https://www.youtube.com/watch?v=AuK-kK11h9k&list=PLIxBouBNlpgoefkspMWiDN0YdOleTtoRp
