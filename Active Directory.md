@@ -52,7 +52,7 @@ systemeigenschaften -> computer -> namen ändern -> name eintragen
 - [ ] was wird gebraucht?
 - [ ] geht das so? oder brauchen wir einen paid service
 	=> geht auf jeden fall mit sva mail nicht
-- [ ] ~~core -> gui~~
+- [x] core -> gui
 	=> neuinstallation zusätzlich
 - [ ] AzureAD Connect wie?
 - [x] git repo zugänglich machen
